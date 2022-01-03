@@ -12,11 +12,11 @@ body {
 }
 .update {
     position: absolute;
-    color:green;
+    color:#E3242B;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    background-color: #010101;
+    background-color: #A91B0D;
     text-align: center;
     border-radius: 10%;
 }
